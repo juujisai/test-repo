@@ -1,27 +1,5 @@
 <template>
-  <MDBContainer>
-    <div
-      class="d-flex justify-content-center align-items-center"
-      style="height: 100vh"
-    >
-      <div class="text-center">
-        <img
-          class="mb-4"
-          src="https://mdbootstrap.com/img/logo/mdb-transparent-250px.png"
-          style="width: 250px; height: 90px"
-        />
-        <h5 class="mb-3">{{ msg }}</h5>
-        <p class="mb-3">MDB Team</p>
-        <a
-          class="btn btn-primary btn-lg"
-          href="https://mdbootstrap.com/docs/vue/"
-          target="_blank"
-          role="button"
-          >MDB VUE DOCS</a
-        >
-      </div>
-    </div>
-  </MDBContainer>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque amet sed sapiente aliquid maiores eos repudiandae expedita excepturi, magni dignissimos dolorum iusto voluptatibus molestiae doloremque. Quia pariatur repellendus laudantium saepe eveniet enim ad et voluptatum mollitia quas odio fuga sunt eius dolor molestiae excepturi quibusdam quaerat, a, impedit libero laboriosam. Perspiciatis neque expedita unde impedit quod ut molestias quae minima eveniet sequi ad, error assumenda sunt modi non praesentium soluta in! Atque ab saepe quidem architecto temporibus corrupti eos odit sapiente recusandae quas nulla, asperiores sequi ut dicta nobis quam iure autem provident eius. A quae possimus suscipit velit laboriosam.
 </template>
 
 <script setup lang="ts">
